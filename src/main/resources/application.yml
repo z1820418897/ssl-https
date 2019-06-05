@@ -1,0 +1,9 @@
+server:
+  port: 32510
+  ssl:
+    key-store: classpath:www.huachen123.cn.jks
+    key-store-password: i41495z63fbo2b
+    key-store-type: JKS
+
+http:
+  port: 32511
